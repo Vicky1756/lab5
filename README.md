@@ -1,0 +1,2 @@
+# lab5
+a program that define a shape class with a constructor that give value of position x, y. Then define four sub-class triangle, rectangle, square and circle, that calculate the area of the shape “getArea()” and the perimeter of the shape “getPerimeter()”. In the main, define four variables a triangle, a rectangle, a square and a circle and then call the “getArea()” and “getPerimeter()” functions in this four variables
