@@ -1,0 +1,1 @@
+"%f",tri.getArea()
